@@ -1,0 +1,14 @@
+{
+  "name": "airquality",
+  "version": "1.0.0",
+  "description": "Air Quality lib",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "ISIMPIO",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
